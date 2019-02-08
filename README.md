@@ -11,6 +11,7 @@ This will start chrome in test mode and login to your facebook account. Select t
 > Due to facebook changing it's layout every so often, a completely automated script is difficult to code. PRs are welcome.
 
 # Todo
-[ ] Completely automate the script
-[ ] Add Twitter support
-[ ] Add Instagram support
+
+- [ ] Completely automate the script
+- [ ] Add Twitter support
+- [ ] Add Instagram support
